@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "5766082b401485dc4be7bfc528cc37ad15affdaa22ad7d2dc3fde109707c3ec6"
+build_start_time: [1672248596, 999166011]
+build_end_time: [1672248597, 37322998]
+inputs:
+  "/Users/ShresthS/flutterApps/Udemy/bmi_calculator/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1672248564, 807360172]
+  "/Users/ShresthS/flutterApps/Udemy/bmi_calculator/macos/Runner/AppDelegate.swift": !private [1646229732, 0]
+  "/Users/ShresthS/flutterApps/Udemy/bmi_calculator/macos/Runner/MainFlutterWindow.swift": !private [1646229732, 0]
